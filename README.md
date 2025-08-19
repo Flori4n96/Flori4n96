@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Flori4n96
-- 👀 I’m interested in Embedded Security & Automation
+- Hi, I’m Florian and interested in Embedded Security & Automation
 
 <!---
 Flori4n96/Flori4n96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
